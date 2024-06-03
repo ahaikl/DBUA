@@ -1,8 +1,8 @@
 # Oracle AI Vector Search User's Guide
 
 -   [Overview](xref:GUID-107FCC1B-EF68-4966-83CE-B7C4244E47A2)
-    -   [Overview of Oracle AI Vector Search](/POC%20-%20VECSE/OverviewVS)
-    -   [Why Use Oracle AI Vector Search?](GUID-7516630E-2533-473A-95DA-0020347E150A.md)
+    -   [Overview of Oracle AI Vector Search](/poc/OverviewVS.md)
+    -   [Why Use Oracle AI Vector Search?](/poc/WhyVS.md)
     -   [Oracle AI Vector Search Workflow](GUID-FC68BF5B-27D1-49E4-BD59-4AF668308E8D.md)
 -   [Get Started](GUID-9FAD626E-42CA-4B9D-8CA5-618693D5ED5E.md)
     -   [SQL Quick Start](GUID-403EB84E-3047-4905-844C-BD4A8670B8A4.md)
