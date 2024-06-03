@@ -9,7 +9,7 @@
 -   [Generate Vector Embeddings](VectorEmbeddingsChapter.md)
     -   [Import Pretrained Models in ONNX Format for Vector Generation Within the Database](ImportModels.md)
         -   [Import ONNX Models and Generate Embeddings](./ImportONNX.md)
-            -   [Alternate Method to Import ONNX Models](<subfolder test/AltImportONNX.md>)
+            -   [Alternate Method to Import ONNX Models](subfolder_test/AltImportONNX.md)
         -   [Convert Pretrained Models to ONNX Format](ConvertModelsRenamed.md)
             -   [Python Classes to Convert Pretrained Models to ONNX Models](PythonToConvert.md)
     -   [Generate Vector Embeddings Using Vector Utilities Leveraging Third-Party REST APIs](GenerateVector.md)
