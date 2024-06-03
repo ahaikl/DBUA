@@ -1,11 +1,11 @@
 # Oracle AI Vector Search User's Guide
 
 -   [Overview](xref:GUID-107FCC1B-EF68-4966-83CE-B7C4244E47A2)
-    -   [Overview of Oracle AI Vector Search](WhyVS.md)
+    -   [Overview of Oracle AI Vector Search](OverviewVS.md)
     -   [Why Use Oracle AI Vector Search?][GUID1]
     -   [Oracle AI Vector Search Workflow](Workflow.md)
 -   [Get Started][GUID2]
-    -   [SQL Quick Start](GUID-403EB84E-3047-4905-844C-BD4A8670B8A4.md)
+    -   [SQL Quick Start][GUID3]
 -   [Generate Vector Embeddings](GUID-A788574C-F88D-4E5E-B220-A40FA8CBB174.md)
     -   [Import Pretrained Models in ONNX Format for Vector Generation Within the Database](GUID-D8140BF9-08E9-4B3F-9E28-E40A6FD181A4.md)
         -   [Import ONNX Models and Generate Embeddings](GUID-6AEA7A0E-78E0-4083-A126-4516EB98175A.md)
@@ -21,4 +21,6 @@
 [GUID1]: WhyVS.md
 <!-- this is a file name -->
 [GUID2]: ./GetStarted.md
+<!-- this is a relative path -->
+[GUID3]: ./Quickstart.md
 <!-- this is a relative path -->
