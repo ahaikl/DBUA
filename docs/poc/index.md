@@ -1,9 +1,9 @@
 # Oracle AI Vector Search User's Guide
 
 -   [Overview](xref:GUID-107FCC1B-EF68-4966-83CE-B7C4244E47A2)
-    -   [Overview of Oracle AI Vector Search](/poc/OverviewVS.md)
-    -   [Why Use Oracle AI Vector Search?](WhyVS.md)
-    -   [Oracle AI Vector Search Workflow](GUID-FC68BF5B-27D1-49E4-BD59-4AF668308E8D.md)
+    -   [Overview of Oracle AI Vector Search](WhyVS.md)
+    -   [Why Use Oracle AI Vector Search?][GUID1]
+    -   [Oracle AI Vector Search Workflow](Workflow.md)
 -   [Get Started](GUID-9FAD626E-42CA-4B9D-8CA5-618693D5ED5E.md)
     -   [SQL Quick Start](GUID-403EB84E-3047-4905-844C-BD4A8670B8A4.md)
 -   [Generate Vector Embeddings](GUID-A788574C-F88D-4E5E-B220-A40FA8CBB174.md)
@@ -16,3 +16,6 @@
         -   [Understand the Stages of Data Transformations](GUID-D6F1E7B6-5642-46A2-B84D-B8E37E4C353E.md)
         -   [Use SQL Functions to Generate Embeddings](GUID-AEAA4AA9-2D47-4451-B6D5-E505C133D9CF.md)
 
+
+
+[GUID1]: WhyVS.md
