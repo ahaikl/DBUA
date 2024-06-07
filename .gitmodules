@@ -1,6 +1,0 @@
-[submodule "master/book2"]
-	path = master/book2
-	url = https://github.com/ahaikl/DBUA
-[submodule "master/book1"]
-	path = master/book1
-	url = https://github.com/ahaikl/DBUA
