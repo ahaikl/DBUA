@@ -1,0 +1,17 @@
+---
+author: [Yuan Zhou, Weiwei Gong, Vinita Subramanian, Teck Hua Lee, Tirthankar Lahiri, Shasank Chavan, Sebastian DeLaHoz, Roger Ford, Rohan Aggarwal, Mark Hornick, Malavika S P, Harichandan Roy, George Krupka, Doug Hood, Dinesh Das, David Jiang, Boriana Milenova, Bonnie Xia, Aurosish Mishra, Angela Amor, Agnivo Saha, Aleksandra Czarlinska, Ramya P, Usha Krishnamurthy, Tulika Das, Suresh Rajan, Sarika Surampudi, Sarah Hirschfeld, Prakash Jashnani, Jody Glover, Jessica True, Mamata Basapur, Maitreyee Chaliha, Gunjan Jain, Frederick Kush, Douglas Williams, Binika Kumar, Jean-Francois Verrier]
+publisherinformation: May2024
+GUID: GUID-107FCC1B-EF68-4966-83CE-B7C4244E47A2
+---
+
+# Overview
+
+Oracle AI Vector Search stores and indexes vector embeddings for fast retrieval and similarity search.
+
+-   **[Overview of Oracle AI Vector Search](GUID-746EAA47-9ADA-4A77-82BB-64E8EF5309BE.md)**  
+Oracle AI Vector Search is designed for Artificial Intelligence \(AI\) workloads and allows you to query data based on semantics, rather than keywords.
+-   **[Why Use Oracle AI Vector Search?](GUID-7516630E-2533-473A-95DA-0020347E150A.md)**  
+One of the biggest benefits of Oracle AI Vector Search is that semantic search on unstructured data can be combined with relational search on business data in one single system.
+-   **[Oracle AI Vector Search Workflow](GUID-FC68BF5B-27D1-49E4-BD59-4AF668308E8D.md)**  
+A typical Oracle AI Vector Search workflow follows the included primary steps.
+
