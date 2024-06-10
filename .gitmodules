@@ -1,3 +1,6 @@
 [submodule "book1_poc"]
 	path = book1_poc
 	url = https://github.com/ahaikl/DBUA/
+[submodule "book2_vecse"]
+	path = book2_vecse
+	url = https://github.com/ahaikl/DBUA/
